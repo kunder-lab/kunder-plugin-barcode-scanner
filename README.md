@@ -1,3 +1,7 @@
+Fork from https://github.com/wildabeast/BarcodeScanner
+
+Fixes some bugs of the original plugin
+
 BarcodeScanner
 ==============
 
